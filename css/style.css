@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@500&family=Roboto:wght@400;500;700;900&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/lakers.css");
+
+@import url("components/celtics.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	background-color: #143F88;
+	color: white;
+}
+h1, h2 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+h3 {
+	color: white;
+	font-size: 24px;
+	font-family: 'Roboto', sans-serif;
+}
+h4 {
+	color: #007E46;
+	font-size: 24px;
+}
+h5 {
+	color: #F6B328;
+	font-size: 24px;
+}
+a {
+	text-decoration: none;
+}
+
+img {
+	width: 400px;
+	border-radius: 50%;
+}
